@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551308981625",
+    "project_id": "notas-discretas",
+    "storage_bucket": "notas-discretas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551308981625:android:8d5f6804a4b7af36ceaba8",
+        "android_client_info": {
+          "package_name": "com.example.notas_discretas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjFmKaqLbc-jxhRZa1sISL_63bTKsRonY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
